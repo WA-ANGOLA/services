@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <artifactId>sola-admin-ejbs</artifactId>
+        <groupId>org.fao.sola.admin.services</groupId>
+        <version>1504a</version>
+    </parent>
+    <groupId>org.fao.sola.admin.services.ejbs</groupId>
+    <artifactId>sola-admin-system</artifactId>
+    <version>1504a</version>
+    <packaging>ejb</packaging>
+    <name>EJB Admin System</name>
+    <repositories>
+    </repositories>
+    <dependencies>
+    </dependencies>
+</project>
