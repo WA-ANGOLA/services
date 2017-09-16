@@ -5,12 +5,12 @@
     <parent>
         <artifactId>sola-admin-services</artifactId>
         <groupId>org.fao.sola.admin</groupId>
-        <version>1504a</version>
+        <version>0.1-1706</version>
     </parent>
 
     <groupId>org.fao.sola.admin.services</groupId>
     <artifactId>sola-admin-test-common</artifactId>
-    <version>1504a</version>
+    <version>0.1-1706</version>
     <packaging>jar</packaging>
 
     <name>Services Admin Test Common</name>
